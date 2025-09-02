@@ -1,0 +1,13 @@
+*{background-color:#ff0000;
+font-family: cursive;
+color: black;}
+button{background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+}
+img{height: 300px;
+    width: 250px;
+    padding-left: 10%;    
+}
+#tema{color: coral;}
+.tema1{color: blueviolet;}
